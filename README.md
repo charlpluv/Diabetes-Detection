@@ -8,6 +8,6 @@ The starting point of this project is the "Mordor Intelligence" website report a
 
 Dataset used: Dataset: https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database
 
-This is a demo restAPI (batch inference) made with streamlit in python to help healthcare professionals diagnose diabetics among Pima Indians.
+This is a demo restAPI (batch inference) made with streamlit in python to help healthcare professionals diagnose diabetics among Pima Indians (as an example).
 
 Please look at 'Diabetes_detection'.pdf file before looking at .ipynb file
