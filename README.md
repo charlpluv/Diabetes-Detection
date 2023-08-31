@@ -1,6 +1,6 @@
 # Diabetes-Detection
 
-Consulting project as a consultant
+Consulting project as a consultant (Python)
 
 The company wanted to extend its solution portfolio to various sectors, such as the life sciences and medical sectors, by creating demo products using AI.
 
